@@ -11,3 +11,5 @@ Notes
 String str will never be null.
 
 https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
+
+https://github.com/Rehmsy/code-wars/pull/1
