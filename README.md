@@ -1,5 +1,7 @@
 ## repo for code wars solutions and white-boarding
 
+white boarded with Carmen.
+
 FIXME: Replace all dots
 The code provided is supposed replace all the dots . in the specified String str with dashes -
 
