@@ -1,7 +1,12 @@
-## Insert dashes
+## Simple validation of a username with regex
 
-Sarah and Arthur
+Sarah and Carmen (also talked over with Bobby and Arthur)
 
-Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
+Write a simple regex to validate a username. Allowed characters are:
 
-https://www.codewars.com/kata/insert-dashes/train/javascript
+lowercase letters,
+numbers,
+underscore
+Length should be between 4 and 16 characters (both included).
+
+https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/train/javascript
