@@ -1,12 +1,9 @@
-## Simple validation of a username with regex
+## Regex validate PIN code
 
-Sarah and Carmen (also talked over with Bobby and Arthur)
+Sarah only (this was assigned end of day 06/05 and then I was out sick)
 
-Write a simple regex to validate a username. Allowed characters are:
+ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
 
-lowercase letters,
-numbers,
-underscore
-Length should be between 4 and 16 characters (both included).
+If the function is passed a valid PIN string, return true, else return false.
 
-https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/train/javascript
+https://www.codewars.com/kata/regex-validate-pin-code/train/javascript
